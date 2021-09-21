@@ -14,17 +14,13 @@ class Ques1
                 }
             }
         }
-
-         
+  
     }
 
     public static void main(String[] args) {
 
         int[] array = new int[] { -5, -9, 8, 12, 1, 3 };
         sortArray(array);
-
-        for(int i=0; i<array.length; i++)
-        System.out.println(array[i]);
 
        
     }
